@@ -293,3 +293,5 @@ select department, avg(performance_rating)from employee_sales group by departmen
 select state, count(employee_id) as "employee_count" from employee_sales group by state;
 
 -- Hello every one I am Also join . 
+
+--  hii i am satyam.
